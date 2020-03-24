@@ -4,7 +4,7 @@ This is a repository dedicated to logo development and for purposes of exchangin
 materials of PHP.earth project.
 
 <div align="center">
-  <img src="https://cdn.rawgit.com/php-earth/logo/master/svg/indigo.svg" width="300">
+  <img src="https://cdn.jsdelivr.net/gh/php-earth/logo/svg/indigo.svg" width="300">
 </div>
 
 ## Files and folders
